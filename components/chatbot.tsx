@@ -255,7 +255,7 @@ export default function ChatbotPage({
                                     </svg>
                                 </div>
                                 <h3 className="font-serif text-2xl sm:text-3xl text-[#1f1e1d] dark:text-[#ececec]">
-                                    Hello sir, how can I help you?
+                                    Hello, how can I help you?
                                 </h3>
                             </div>
 
