@@ -3,7 +3,7 @@
 A modern AI chatbot with a calm, distraction-free interface.
 Built with Next.js, NextAuth, and support for Google / GitHub / email login.
 
-![Truee](https://via.placeholder.com/1200x600?text=Truee+Screenshot)
+![Truee](https://github.com/Utkarsh9721/certificates/blob/main/truee.png?raw=true)
 
 ---
 
